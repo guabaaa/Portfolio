@@ -30,6 +30,12 @@ const About = () => {
       <div className="about-introducing">
         <h1 className="about-title">About Me</h1>
         <img src={choeunjin} className="about-img" />
+        <p>
+          이름: 조은진
+          <br />
+          생년월일 : 1995년 9월 23일
+          <br />
+        </p>
       </div>
     </div>
   );
