@@ -15,6 +15,7 @@
 }
 
 .about-button-wrap button {
+    font-family: 'SF_HambakSnow';
     border: none;
     background-color: #fff;
     font-size: 17px;
@@ -67,4 +68,8 @@ button.about-btn:hover {
     margin-left: 20px;
     width: 120px;
     height: 160px;
+}
+
+h1 {
+    font-family: 'GongGothicMedium';
 }

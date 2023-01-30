@@ -15,6 +15,7 @@
 }
 
 .button-wrap button {
+    font-family: 'SF_HambakSnow';
     border: none;
     width: 65px;
     background-color: #fff;
@@ -68,4 +69,8 @@ button.home-btn:hover {
 
 .myname {
     text-align: center;
+}
+
+h1 {
+    font-family: 'GongGothicMedium';
 }
