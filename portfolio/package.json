@@ -28,7 +28,7 @@
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build"
   },
-  "homepage": "https://guabaaa.github.io/Portfolio/",
+  "homepage": "https://guabaaa.github.io/portfolio/",
   "eslintConfig": {
     "extends": [
       "react-app",
