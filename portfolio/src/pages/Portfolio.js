@@ -3,7 +3,7 @@ import "../css/Main.css";
 import choeunjin from "../imgs/choeunjin.jpeg";
 import { useNavigate } from "react-router-dom";
 
-const Main = () => {
+const Portfolio = () => {
   const navigate = useNavigate();
   const toHome = () => {
     navigate("/");
@@ -39,4 +39,4 @@ const Main = () => {
   );
 };
 
-export default Main;
+export default Portfolio;
